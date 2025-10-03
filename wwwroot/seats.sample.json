@@ -1,0 +1,6 @@
+{
+  "value": [
+    { "deviceName": "TMC00866-LT", "complianceState": "compliant" },
+    { "deviceName": "TMC00861-DT", "complianceState": "noncompliant" }
+  ]
+}

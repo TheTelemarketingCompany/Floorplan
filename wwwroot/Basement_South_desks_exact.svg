@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="511" viewBox="0 0 860 511"><rect x="0" y="0" width="860" height="511" fill="#0b0f14"/><text x="30" y="20" fill="#cfe6ff" font-family="Inter, Segoe UI, Arial" font-size="12">Basement South</text><g font-family="Inter, Segoe UI, Arial" font-size="10"><g id="TMC01223" class="seat">  <rect x="32" y="32" width="88" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="76.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01223</text>
+</g><g id="TMC01222" class="seat">  <rect x="124" y="32" width="82" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="165.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01222</text>
+</g><g id="TMC01221" class="seat">  <rect x="210" y="32" width="87" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="253.5" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01221</text>
+</g><g id="TMC01220" class="seat">  <rect x="398" y="32" width="92" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01220</text>
+</g><g id="TMC01219" class="seat">  <rect x="494" y="32" width="90" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01219</text>
+</g><g id="TMC01218" class="seat">  <rect x="588" y="32" width="60" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="618.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01218</text>
+</g><g id="TMC01217" class="seat">  <rect x="652" y="32" width="48" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="676.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC01217</text>
+</g><g id="TMC00864" class="seat">  <rect x="768" y="32" width="60" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="798.0" y="54.5" text-anchor="middle" fill="#e8f0f6">TMC00864</text>
+</g><g id="TMC01224" class="seat">  <rect x="32" y="75" width="88" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="76.0" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01224</text>
+</g><g id="TMC01225" class="seat">  <rect x="124" y="75" width="82" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="165.0" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01225</text>
+</g><g id="TMC01226" class="seat">  <rect x="210" y="75" width="87" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="253.5" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01226</text>
+</g><g id="TMC01216" class="seat">  <rect x="398" y="75" width="92" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01216</text>
+</g><g id="TMC01215" class="seat">  <rect x="494" y="75" width="90" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01215</text>
+</g><g id="TMC01214" class="seat">  <rect x="588" y="75" width="60" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="618.0" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01214</text>
+</g><g id="TMC01213" class="seat">  <rect x="652" y="75" width="48" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="676.0" y="97.5" text-anchor="middle" fill="#e8f0f6">TMC01213</text>
+</g><g id="TMC00839" class="seat">  <rect x="32" y="149" width="88" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="76.0" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC00839</text>
+</g><g id="TMC01019" class="seat">  <rect x="124" y="149" width="82" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="165.0" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC01019</text>
+</g><g id="TMC00833" class="seat">  <rect x="210" y="149" width="87" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="253.5" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC00833</text>
+</g><g id="TMC01194" class="seat">  <rect x="398" y="149" width="92" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC01194</text>
+</g><g id="TMC01196" class="seat">  <rect x="494" y="149" width="90" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC01196</text>
+</g><g id="TMC01197" class="seat">  <rect x="588" y="149" width="60" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="618.0" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC01197</text>
+</g><g id="TMC00867" class="seat">  <rect x="652" y="149" width="48" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="676.0" y="171.5" text-anchor="middle" fill="#e8f0f6">TMC00867</text>
+</g><g id="TMC01193" class="seat">  <rect x="398" y="192" width="92" height="38" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="214.0" text-anchor="middle" fill="#e8f0f6">TMC01193</text>
+</g><g id="TMC01192" class="seat">  <rect x="494" y="192" width="90" height="38" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="214.0" text-anchor="middle" fill="#e8f0f6">TMC01192</text>
+</g><g id="TMC01191" class="seat">  <rect x="588" y="192" width="60" height="38" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="618.0" y="214.0" text-anchor="middle" fill="#e8f0f6">TMC01191</text>
+</g><g id="TMC01190" class="seat">  <rect x="398" y="271" width="92" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="293.5" text-anchor="middle" fill="#e8f0f6">TMC01190</text>
+</g><g id="TMC01189" class="seat">  <rect x="494" y="271" width="90" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="293.5" text-anchor="middle" fill="#e8f0f6">TMC01189</text>
+</g><g id="TMC01183" class="seat">  <rect x="588" y="271" width="60" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="618.0" y="293.5" text-anchor="middle" fill="#e8f0f6">TMC01183</text>
+</g><g id="TMC01233" class="seat">  <rect x="652" y="271" width="48" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="676.0" y="293.5" text-anchor="middle" fill="#e8f0f6">TMC01233</text>
+</g><g id="TMC00841" class="seat">  <rect x="398" y="314" width="92" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="336.5" text-anchor="middle" fill="#e8f0f6">TMC00841</text>
+</g><g id="TMC01180" class="seat">  <rect x="494" y="314" width="90" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="336.5" text-anchor="middle" fill="#e8f0f6">TMC01180</text>
+</g><g id="TMC00838" class="seat">  <rect x="588" y="314" width="60" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="618.0" y="336.5" text-anchor="middle" fill="#e8f0f6">TMC00838</text>
+</g><g id="TMC01010" class="seat">  <rect x="652" y="314" width="48" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="676.0" y="336.5" text-anchor="middle" fill="#e8f0f6">TMC01010</text>
+</g><g id="TMC01020" class="seat">  <rect x="347" y="397" width="47" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="370.5" y="419.5" text-anchor="middle" fill="#e8f0f6">TMC01020</text>
+</g><g id="TMC00946" class="seat">  <rect x="398" y="440" width="92" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="444.0" y="462.5" text-anchor="middle" fill="#e8f0f6">TMC00946</text>
+</g><g id="TMC00868" class="seat">  <rect x="494" y="440" width="90" height="39" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="539.0" y="462.5" text-anchor="middle" fill="#e8f0f6">TMC00868</text>
+</g></g></svg>
