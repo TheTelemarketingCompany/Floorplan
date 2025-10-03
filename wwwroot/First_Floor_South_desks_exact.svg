@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444" height="460" viewBox="0 0 444 460"><rect x="0" y="0" width="444" height="460" fill="#0b0f14"/><text x="30" y="20" fill="#cfe6ff" font-family="Inter, Segoe UI, Arial" font-size="12">First Floor South</text><g font-family="Inter, Segoe UI, Arial" font-size="10"><g id="TMC00627" class="seat">  <rect x="288" y="32" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="318.0" y="53.0" text-anchor="middle" fill="#e8f0f6">TMC00627</text>
+</g><g id="TMC00879" class="seat">  <rect x="352" y="32" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="382.0" y="53.0" text-anchor="middle" fill="#e8f0f6">TMC00879</text>
+</g><g id="TMC01025" class="seat">  <rect x="32" y="72" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="62.0" y="93.0" text-anchor="middle" fill="#e8f0f6">TMC01025</text>
+</g><g id="TMC00939" class="seat">  <rect x="288" y="112" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="318.0" y="133.0" text-anchor="middle" fill="#e8f0f6">TMC00939</text>
+</g><g id="TMC00819" class="seat">  <rect x="352" y="112" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="382.0" y="133.0" text-anchor="middle" fill="#e8f0f6">TMC00819</text>
+</g><g id="TMC00833" class="seat">  <rect x="288" y="312" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="318.0" y="333.0" text-anchor="middle" fill="#e8f0f6">TMC00833</text>
+</g><g id="TMC01028" class="seat">  <rect x="32" y="352" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="62.0" y="373.0" text-anchor="middle" fill="#e8f0f6">TMC01028</text>
+</g><g id="TMC00941" class="seat">  <rect x="288" y="392" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="318.0" y="413.0" text-anchor="middle" fill="#e8f0f6">TMC00941</text>
+</g><g id="TMC00940" class="seat">  <rect x="352" y="392" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="382.0" y="413.0" text-anchor="middle" fill="#e8f0f6">TMC00940</text>
+</g></g></svg>

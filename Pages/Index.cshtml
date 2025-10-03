@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Floorplan — demo";
+}
+<div class="wrap">
+  <h1>Floorplan — demo</h1>
+
+  <!-- Floor buttons -->
+  <div id="floorBar" class="floorbar">
+    <button class="btn" data-file="Basement_North_desks_exact.svg">Basement North</button>
+    <button class="btn" data-file="Basement_South_desks_exact.svg">Basement South</button>
+    <button class="btn" data-file="Ground_Floor_desks_exact.svg">Ground</button>
+    <button class="btn" data-file="First_Floor_North_desks_exact.svg">1st North</button>
+    <button class="btn" data-file="First_Floor_South_desks_exact.svg">1st South</button>
+    <button class="btn" data-file="Second_Floor_North_desks_exact.svg">2nd North</button>
+    <button class="btn" data-file="Second_Floor_South_desks_exact.svg">2nd South</button>
+    <button class="btn active" data-file="Third_Floor_South_desks_exact.svg">3rd South</button>
+    <button class="btn" data-file="Third_Floor_North_desks_exact.svg">3rd North</button>
+    <button class="btn" data-file="Fourth_Floor_North_desks_exact.svg">4th North</button>
+    <button class="btn" data-file="Fourth_Floor_South_desks_exact.svg">4th South</button>
+  </div>
+
+  <!-- Search -->
+  <input id="seatSearch" type="text" placeholder="Search seat (e.g. TMC00866)"
+         style="margin:10px 0 12px 0;padding:6px 8px;border-radius:8px;border:1px solid #444;color:#111" />
+
+  <!-- SVG is injected here by wwwroot/js/site.js -->
+  <div id="svgHost" class="svgHost"></div>
+
+  <div class="legend" style="margin-top:10px">
+    <span class="lg ok"></span> Compliant
+    <span class="lg warn"></span> Non-compliant
+    <span class="lg unk"></span> Unknown/empty
+  </div>
+
+  <div id="details" style="margin-top:8px;opacity:.85">Click a seat…</div>
+  <div id="counts" style="margin-top:6px;opacity:.8"></div>
+</div>
+
+<!-- (Optional) floating tooltip layer — currently unused; safe to keep -->
+<div id="tooltip" class="tooltip" hidden></div>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="688" height="420" viewBox="0 0 688 420"><rect x="0" y="0" width="688" height="420" fill="#0b0f14"/><text x="30" y="20" fill="#cfe6ff" font-family="Inter, Segoe UI, Arial" font-size="12">Ground Floor</text><g font-family="Inter, Segoe UI, Arial" font-size="10"><g id="TMC01023" class="seat">  <rect x="148" y="32" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="178.0" y="53.0" text-anchor="middle" fill="#e8f0f6">TMC01023</text>
+</g><g id="TMC00944" class="seat">  <rect x="148" y="112" width="60" height="36" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="178.0" y="133.0" text-anchor="middle" fill="#e8f0f6">TMC00944</text>
+</g><g id="TMC00938" class="seat">  <rect x="32" y="232" width="48" height="76" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="56.0" y="273.0" text-anchor="middle" fill="#e8f0f6">TMC00938</text>
+</g><g id="TMC00850" class="seat">  <rect x="596" y="232" width="60" height="76" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="626.0" y="273.0" text-anchor="middle" fill="#e8f0f6">TMC00850</text>
+</g><g id="TMC00835" class="seat">  <rect x="596" y="312" width="60" height="76" rx="6" ry="6" fill="#5b6778" stroke="#223"/>
+  <text x="626.0" y="353.0" text-anchor="middle" fill="#e8f0f6">TMC00835</text>
+</g></g></svg>
